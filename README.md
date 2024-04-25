@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Matheus Augusto</title>
+    <title> <background-color>red </background-color> Matheus Augusto</title>
     
 </head>
 <body>
@@ -30,3 +30,4 @@
     <img src="https://i.pinimg.com/736x/da/61/9d/da619d4024249fc96b35cdf85de04896.jpg"width="900" alt="imagens pelo link"
 </body>
 </html>
+
